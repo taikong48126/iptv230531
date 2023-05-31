@@ -1,0 +1,387 @@
+#EXTM3U
+#EXTINF:-1 ,CCTV1综合频道
+https://dispatch.ulivetv.net/v/live/cgn2nfkwmp4w.m3u8?stream_id=cgn2nfkwmp4w&timestamp=1685426074&rand=VRZ4FJkdN0&uuid=9b647b3816b2a66a&from=web&sign=a40f24018e89dfcad925233e7b90e455
+#EXTINF:-1 ,CCTV2财经频道
+https://dispatch.ulivetv.net/v/live/c9vu0827ucao.m3u8?stream_id=c9vu0827ucao&timestamp=1685426013&rand=JvjPOWy1bT&uuid=9b647b3816b2a66a&from=web&sign=e4e3c3a43a9139d558494a3aae3ff72e
+#EXTINF:-1 ,CCTV3综艺频道
+https://dispatch.ulivetv.net/v/live/c9vu0ly50rls.m3u8?stream_id=c9vu0ly50rls&timestamp=1685426276&rand=0KhV1aLPBA&uuid=9b647b3816b2a66a&from=web&sign=000506973da50f0013f148ce899f5146
+#EXTINF:-1 ,CCTV4国际频道
+https://dispatch.ulivetv.net/v/live/c9vu1clej000.m3u8?stream_id=c9vu1clej000&timestamp=1685426301&rand=3rrc3FTJTy&uuid=9b647b3816b2a66a&from=web&sign=d5e2f82758670ff69c890fbcd3f03fad
+#EXTINF:-1 ,CCTV5体育频道
+https://dispatch.ulivetv.net/v/live/c9vu1o0ob5j4.m3u8?stream_id=c9vu1o0ob5j4&timestamp=1685426319&rand=7hd06DgPIj&uuid=9b647b3816b2a66a&from=web&sign=7399e4609afb1dfb0d68316b67fea29b
+#EXTINF:-1 ,CCTV6电影频道
+https://dispatch.ulivetv.net/v/live/cgn10iblu2f4.m3u8?stream_id=cgn10iblu2f4&timestamp=1685426337&rand=FIQs8B7MqO&uuid=9b647b3816b2a66a&from=web&sign=8b337e63115c320624af3af6d485e9c4
+#EXTINF:-1 ,CCTV7军事农业频道
+https://dispatch.ulivetv.net/v/live/cgn1c6p2o2io.m3u8?stream_id=cgn1c6p2o2io&timestamp=1685426356&rand=nJNKpZx8Ui&uuid=9b647b3816b2a66a&from=web&sign=1faff6696858e7b221d54e72166ff59b
+#EXTINF:-1 ,CCTV8电视剧频道
+https://dispatch.ulivetv.net/v/live/cgn1g1rn5k8w.m3u8?stream_id=cgn1g1rn5k8w&timestamp=1685426380&rand=lPUVXh0IMV&uuid=9b647b3816b2a66a&from=web&sign=d0b9c98530c3243b41cb1663e035eec2
+#EXTINF:-1 ,CCTV9纪录频道
+https://dispatch.ulivetv.net/v/live/cgn1jfvngjb4.m3u8?stream_id=cgn1jfvngjb4&timestamp=1685426399&rand=rBo48OaNMP&uuid=9b647b3816b2a66a&from=web&sign=73835bd9b43a34cce77883ec3c8f05ba
+#EXTINF:-1 ,CCTV10科学教育频道
+https://dispatch.ulivetv.net/v/live/cgn1mnc500qo.m3u8?stream_id=cgn1mnc500qo&timestamp=1685426421&rand=rgPk3S7Pf9&uuid=9b647b3816b2a66a&from=web&sign=a535871d0929c0cc45b25eef2520c60c
+#EXTINF:-1 ,CCTV11戏曲频道
+https://dispatch.ulivetv.net/v/live/cgn1qxe3k6gw.m3u8?stream_id=cgn1qxe3k6gw&timestamp=1685426446&rand=UGplQLPPs6&uuid=9b647b3816b2a66a&from=web&sign=91d97f9c78c1aa0b334a1a58ee43c565
+#EXTINF:-1 ,CCTV12社会与法频道
+https://dispatch.ulivetv.net/v/live/cgn1u1zurzy8.m3u8?stream_id=cgn1u1zurzy8&timestamp=1685426466&rand=HwW5yMlO5d&uuid=9b647b3816b2a66a&from=web&sign=5e8f8e132f71225d2516ed547ee0a028
+#EXTINF:-1 ,CCTV13新闻频道
+https://dispatch.ulivetv.net/v/live/cgn1x0999zgg.m3u8?stream_id=cgn1x0999zgg&timestamp=1685426490&rand=w3f5lJdIBD&uuid=9b647b3816b2a66a&from=web&sign=69c4c348928bf02f3e180f96cf47ef07
+#EXTINF:-1 ,CCTV14少儿频道
+https://dispatch.ulivetv.net/v/live/cgn20xip2280.m3u8?stream_id=cgn20xip2280&timestamp=1685426511&rand=OlTqlT4vVc&uuid=9b647b3816b2a66a&from=web&sign=88b749f676dfbd54b0f79fd1f3d9475c
+#EXTINF:-1 ,CCTV15音乐频道
+https://dispatch.ulivetv.net/v/live/cgn240uqmrwg.m3u8?stream_id=cgn240uqmrwg&timestamp=1685426529&rand=DoSyzYYWhg&uuid=9b647b3816b2a66a&from=web&sign=14d9994ceb46d39c57eff68f5963b885
+#EXTINF:-1 ,CCTV16奥利匹克
+https://dispatch.ulivetv.net/v/live/cgn277dnje0w.m3u8?stream_id=cgn277dnje0w&timestamp=1685426566&rand=JRTI74W1zc&uuid=9b647b3816b2a66a&from=web&sign=5f4ca8c418a7d3a01383967a15cd7f83
+#EXTINF:-1 ,CCTV17农业农村
+https://dispatch.ulivetv.net/v/live/cgmur41547nk.m3u8?stream_id=cgmur41547nk&timestamp=1685426724&rand=SeiygByRdh&uuid=9b647b3816b2a66a&from=web&sign=1fb2645c756054a12df20090983d8da3
+#EXTINF:-1 ,CCTV5＋体育赛事
+https://dispatch.ulivetv.net/v/live/cgn39awxymrk.m3u8?stream_id=cgn39awxymrk&timestamp=1685426706&rand=wdzYXYkcY1&uuid=9b647b3816b2a66a&from=web&sign=9b4a0f951b0f7d36eb29e0f5c1a01ee1
+#EXTINF:-1 ,CCTV4K超高清
+http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000266302.m3u8
+#EXTINF:-1 ,CCTV央视台球
+http://113.207.84.196/session/4552423e-ff9e-11ed-b748-5254006225bb$h1.0$tv.live.cbnbn.cn/673dxt/__cl/cg:live/__c/ystqHD/__op/default/__f/index.m3u8?token=d0426677539e61f3341f11c54af641f0_1685615075_1685615075
+#EXTINF:-1 ,CCTV发现之旅
+http://113.207.84.196/session/677f358e-ffbb-11ed-bb99-5254004d191c$h1.0$tv.live.cbnbn.cn/673dxt/__cl/cg:live/__c/faxian/__op/default/__f/index.m3u8?token=514cb59ccd65b2f29c235cfa087f877d_1685624552_1685624552
+#EXTINF:-1 ,CCTV高尔夫 网球
+http://113.207.84.199/session/2d98e020-ff9f-11ed-85a4-5254004d191c$h1.0$tv.live.cbnbn.cn/673dxt/__cl/cg:live/__c/golfHD/__op/default/__f/index.m3u8?token=346c38fd6e88dc4da6f46ae07c62db7f_1685615864_1685615864
+#EXTINF:-1 ,CCTV风云音乐
+http://113.207.84.196/session/93e7dfca-ff9f-11ed-bb11-5254003e6f6f$h1.0$tv.live.cbnbn.cn/673dxt/__cl/cg:live/__c/fyyyHD/__op/default/__f/index.m3u8?token=5e1252ac457e613bba0a9f9f8bf96e0e_1685610420_1685610420
+#EXTINF:-1 ,CCTV风云足球
+http://113.207.84.200/session/c49ac2f4-ff9f-11ed-90e0-5254003e6f6f$h1.0$tv.live.cbnbn.cn/673dxt/__cl/cg:live/__c/fyzqHD/__op/default/__f/index.m3u8?token=73bbf83840a0c53ddb8bcaf79ffb099e_1685616117_1685616117
+#EXTINF:-1 ,CCTV怀旧剧场
+http://113.207.84.200/session/09171856-ffa0-11ed-bb11-5254003e6f6f$h1.0$tv.live.cbnbn.cn/673dxt/__cl/cg:live/__c/hjjcHD/__op/default/__f/index.m3u8?token=196cc89f7ef2d8a7be3acf81e5e1a3fb_1685612848_1685612848
+#EXTINF:-1 ,CCTV老故事频道
+http://113.207.84.197/session/3164d7c6-ffa0-11ed-90e0-5254003e6f6f$h1.0$tv.live.cbnbn.cn/673dxt/__cl/cg:live/__c/gushi/__op/default/__f/index.m3u8?token=cd015dd1bfbee78a2e10263033816014_1685609947_1685609947
+#EXTINF:-1 ,CCTV风云剧场
+http://113.207.84.200/session/4e09be82-ffa0-11ed-8640-5254006225bb$h1.0$tv.live.cbnbn.cn/673dxt/__cl/cg:live/__c/fyjcHD/__op/default/__f/index.m3u8?token=19de7f07e7145d33abe6b1614d72e4e1_1685615037_1685615037
+#EXTINF:-1 ,CCTV第一剧场
+http://113.207.84.200/session/7abc5a3e-ffa0-11ed-87d1-525400dfb345$h1.0$tv.live.cbnbn.cn/673dxt/__cl/cg:live/__c/diyijuchangHD/__op/default/__f/index.m3u8?token=b997668636a23d28d6e38b288c81572a_1685611395_1685611395
+#EXTINF:-1 ,CCTV中国天气
+http://113.207.84.200/session/99518c44-ffa0-11ed-bb11-5254003e6f6f$h1.0$tv.live.cbnbn.cn/673dxt/__cl/cg:live/__c/tianqiSD/__op/default/__f/index.m3u8?token=178ffa244b845893306c33908a0cd70b_1685613235_1685613235
+#EXTINF:-1 ,CCTV央视文化精品
+http://113.207.84.196/session/b8a673de-ffa0-11ed-bb11-5254003e6f6f$h1.0$tv.live.cbnbn.cn/673dxt/__cl/cg:live/__c/yswhHD/__op/default/__f/index.m3u8?token=30a8dc917e58e4d1fb730f1eed24018e_1685613558_1685613558
+#EXTINF:-1 ,CCTV书画频道
+http://113.207.84.196/session/d0c45b7a-ffa0-11ed-87d1-525400dfb345$h1.0$tv.live.cbnbn.cn/673dxt/__cl/cg:live/__c/shuhua/__op/default/__f/index.m3u8?token=417c6a90fa8c57fa207eda0d7447397d_1685612664_1685612664
+#EXTINF:-1 ,CCTV兵器科技频道
+http://113.207.84.200/session/e5309a60-ffa0-11ed-87d1-525400dfb345$h1.0$tv.live.cbnbn.cn/673dxt/__cl/cg:live/__c/bqkjHD/__op/default/__f/index.m3u8?token=204e6d4a3a368f3753d773a943ddc9ac_1685613441_1685613441
+#EXTINF:-1 ,CCTV中视购物
+http://113.207.84.199/session/1ad5df9e-ffa2-11ed-85a4-5254004d191c$h1.0$tv.live.cbnbn.cn/673dxt/__cl/cg:live/__c/ysgw/__op/default/__f/index.m3u8?token=656619b8464afef85d3acb08db92effb_1685612858_1685612858
+#EXTINF:-1 ,CCTV女性时尚
+http://113.207.84.200/session/49a84c62-ffa2-11ed-bb99-5254004d191c$h1.0$tv.live.cbnbn.cn/673dxt/__cl/cg:live/__c/nvxing/__op/default/__f/index.m3u8?token=26e8c6db52826b9216dabf3d6cd075ff_1685613478_1685613478
+#EXTINF:-1 ,国学频道
+http://113.207.84.197/session/a79d0420-ffa2-11ed-bb11-5254003e6f6f$h1.0$tv.live.cbnbn.cn/673dxt/__cl/cg:live/__c/guoxue/__op/default/__f/index.m3u8?token=ac8b647eb563dc8cc3d1b1821369e186_1685617270_1685617270
+#EXTINF:-1 ,深圳卫视
+https://dispatch.ulivetv.net/v/live/cgwvto57pvwg.m3u8?stream_id=cgwvto57pvwg&timestamp=1685426803&rand=zlDMH8Ode1&uuid=9b647b3816b2a66a&from=web&sign=f3c4d293ff5814d3ce92748049224f2b
+#EXTINF:-1 ,北京卫视
+https://dispatch.ulivetv.net/v/live/cgwvkn768jwg.m3u8?stream_id=cgwvkn768jwg&timestamp=1685426860&rand=i8hzTaQmvR&uuid=9b647b3816b2a66a&from=web&sign=ca9a7438484136dc01af0ecca6db49e3
+#EXTINF:-1 ,东方卫视
+https://dispatch.ulivetv.net/v/live/cgwvmejnjcg0.m3u8?stream_id=cgwvmejnjcg0&timestamp=1685426884&rand=VH2w0qRzk3&uuid=9b647b3816b2a66a&from=web&sign=6c3046cd96050fe13b2d2b365a84acf7
+#EXTINF:-1 ,天津卫视
+https://dispatch.ulivetv.net/v/live/cgwvuduf3ykg.m3u8?stream_id=cgwvuduf3ykg&timestamp=1685426920&rand=LQhf35uv5s&uuid=9b647b3816b2a66a&from=web&sign=6f71aaf22a9a9298ff28115ece808c0e
+#EXTINF:-1 ,重庆卫视
+https://dispatch.ulivetv.net/v/live/cgwvmz9yp7ls.m3u8?stream_id=cgwvmz9yp7ls&timestamp=1685426962&rand=mQ1AJcH00q&uuid=9b647b3816b2a66a&from=web&sign=ff59e829b60a962e962bada1e408f177
+#EXTINF:-1 ,安徽卫视
+https://dispatch.ulivetv.net/v/live/cgx3d4vuzwe8.m3u8?stream_id=cgx3d4vuzwe8&timestamp=1685426996&rand=auXqb7g9k3&uuid=9b647b3816b2a66a&from=web&sign=31928a630ec890070e13e96e75e83acf
+#EXTINF:-1 ,浙江卫视
+https://dispatch.ulivetv.net/v/live/cgwvlwcmnw74.m3u8?stream_id=cgwvlwcmnw74&timestamp=1685427034&rand=IrFv9QLMxr&uuid=9b647b3816b2a66a&from=web&sign=46bccc185dc4cd7cd7c996c1f68aabb7
+#EXTINF:-1 ,江苏卫视
+https://dispatch.ulivetv.net/v/live/cgwvmpf84bsw.m3u8?stream_id=cgwvmpf84bsw&timestamp=1685427069&rand=D7teVZU9wH&uuid=9b647b3816b2a66a&from=web&sign=918fb16702aadecff9884b967e0d53ae
+#EXTINF:-1 ,湖南卫视
+https://dispatch.ulivetv.net/v/live/cgwvl62c4og0.m3u8?stream_id=cgwvl62c4og0&timestamp=1685427091&rand=lWK2609pms&uuid=9b647b3816b2a66a&from=web&sign=a1c46f9d719742b8809c973fa7b08053
+#EXTINF:-1 ,湖北卫视
+https://dispatch.ulivetv.net/v/live/cgwvq50s8xq8.m3u8?stream_id=cgwvq50s8xq8&timestamp=1685427131&rand=y0e2oGGMAz&uuid=9b647b3816b2a66a&from=web&sign=0f81412135ed2dd226630376128717f3
+#EXTINF:-1 ,河南卫视
+https://dispatch.ulivetv.net/v/live/cgx3dhp7qri8.m3u8?stream_id=cgx3dhp7qri8&timestamp=1685427180&rand=ejGFSG5jvH&uuid=9b647b3816b2a66a&from=web&sign=045d608df2cdcad13de190d84750e023
+#EXTINF:-1 ,河北卫视
+https://dispatch.ulivetv.net/v/live/cgwvpk4zt39c.m3u8?stream_id=cgwvpk4zt39c&timestamp=1685427213&rand=l6b4N39BvW&uuid=9b647b3816b2a66a&from=web&sign=309a693e12aa784751f13199bf05d2a5
+#EXTINF:-1 ,广东卫视
+https://dispatch.ulivetv.net/v/live/cgwvo5slhbcw.m3u8?stream_id=cgwvo5slhbcw&timestamp=1685427261&rand=gVYWlaPiuO&uuid=9b647b3816b2a66a&from=web&sign=1814a21e03db66ad3759f4979cb8761c
+#EXTINF:-1 ,广西卫视
+https://dispatch.ulivetv.net/v/live/cgwvoiircukg.m3u8?stream_id=cgwvoiircukg&timestamp=1685427300&rand=Kwna93NfsS&uuid=9b647b3816b2a66a&from=web&sign=f277242fb6b04b4c6c8b27a453a7c659
+#EXTINF:-1 ,山西卫视
+https://dispatch.ulivetv.net/v/live/cgwvt9ytgse8.m3u8?stream_id=cgwvt9ytgse8&timestamp=1685427364&rand=vT63AFKEWT&uuid=9b647b3816b2a66a&from=web&sign=bc077ce8b14278bef4adf1ad4b9e6294
+#EXTINF:-1 ,四川卫视
+https://dispatch.ulivetv.net/v/live/cgwvu1zegukg.m3u8?stream_id=cgwvu1zegukg&timestamp=1685427419&rand=nfDbnvu6jV&uuid=9b647b3816b2a66a&from=web&sign=310d8db5784b7df73d6ed1fd3cf46d07
+#EXTINF:-1 ,江西卫视
+http://113.207.84.196/session/e92870de-fd43-11ed-bb99-5254004d191c$h1.0$tv.live.cbnbn.cn/673dxt/__cl/cg:live/__c/jiangxiHD/__op/default/__f/index.m3u8?token=b804689413dee56510601590fc534156_1685356762_1685356762
+#EXTINF:-1 ,东南卫视
+https://dispatch.ulivetv.net/v/live/cgwvn8vw4zi8.m3u8?stream_id=cgwvn8vw4zi8&timestamp=1685427452&rand=wMz9IIlAK9&uuid=9b647b3816b2a66a&from=web&sign=a2039ca1c96d8da1a60e1b8baae6198c
+#EXTINF:-1 ,吉林卫视
+https://dispatch.ulivetv.net/v/live/cgwvqoks4q0w.m3u8?stream_id=cgwvqoks4q0w&timestamp=1685427722&rand=MrQF0ogg7E&uuid=9b647b3816b2a66a&from=web&sign=4c6467388feebc27b08d205d10aeb375
+#EXTINF:-1 ,辽宁卫视
+https://dispatch.ulivetv.net/v/live/cgwvr05o6nk0.m3u8?stream_id=cgwvr05o6nk0&timestamp=1685427746&rand=gKKrGk5qOg&uuid=9b647b3816b2a66a&from=web&sign=2b5f43d9f9ab4ed430ef879decb86c58
+#EXTINF:-1 ,海南卫视
+https://dispatch.ulivetv.net/v/live/cgwvp8nuloe8.m3u8?stream_id=cgwvp8nuloe8&timestamp=1685427775&rand=NklzqvRc6p&uuid=9b647b3816b2a66a&from=web&sign=fc99ac4de9b15019b24667621f8062e9
+#EXTINF:-1 ,宁夏卫视
+https://dispatch.ulivetv.net/v/live/cgwvs6rwtha8.m3u8?stream_id=cgwvs6rwtha8&timestamp=1685427808&rand=xQgnsLSyZ2&uuid=9b647b3816b2a66a&from=web&sign=a262e505527c192fdad3966102415772
+#EXTINF:-1 ,青海卫视
+https://dispatch.ulivetv.net/v/live/cgx3cr9px5ts.m3u8?stream_id=cgx3cr9px5ts&timestamp=1685427845&rand=x9wqaQrAA1&uuid=9b647b3816b2a66a&from=web&sign=eb323b3a8ace613109577f4910f459ce
+#EXTINF:-1 ,贵州卫视
+https://dispatch.ulivetv.net/v/live/cgwvovrpyvgg.m3u8?stream_id=cgwvovrpyvgg&timestamp=1685427872&rand=anojVLRErC&uuid=9b647b3816b2a66a&from=web&sign=b9f435c463cf37b83781c086612c0696
+#EXTINF:-1 ,新疆卫视
+https://dispatch.ulivetv.net/v/live/cgx3bru59t4w.m3u8?stream_id=cgx3bru59t4w&timestamp=1685427908&rand=6XsjwoAJL6&uuid=9b647b3816b2a66a&from=web&sign=b1cd4e6b2666f6683a91d32c82c0b9d3
+#EXTINF:-1 ,西藏卫视
+https://dispatch.ulivetv.net/v/live/cgx3c49cldq8.m3u8?stream_id=cgx3c49cldq8&timestamp=1685427931&rand=TBrXOOajfq&uuid=9b647b3816b2a66a&from=web&sign=42192937fb6dd8ecfeeb5825629ed35c
+#EXTINF:-1 ,黑龙江卫视
+https://dispatch.ulivetv.net/v/live/cgwvptziwa0w.m3u8?stream_id=cgwvptziwa0w&timestamp=1685427966&rand=DPlxtGQAoP&uuid=9b647b3816b2a66a&from=web&sign=df086525a9aa550dcb0e7640ff63b0f2
+#EXTINF:-1 ,山东卫视
+https://dispatch.ulivetv.net/v/live/cgwvsyb0j4cg.m3u8?stream_id=cgwvsyb0j4cg&timestamp=1685427992&rand=lbRUsXxA95&uuid=9b647b3816b2a66a&from=web&sign=9ee4f4c4567db5f74245283af9900d5f
+#EXTINF:-1 ,内蒙古卫视
+https://dispatch.ulivetv.net/v/live/cgwvrqb6evgg.m3u8?stream_id=cgwvrqb6evgg&timestamp=1685428017&rand=fUw3e2cpBf&uuid=9b647b3816b2a66a&from=web&sign=e542b1d78a47e0d0ff042e0c66945415
+#EXTINF:-1 ,陕西卫视
+https://dispatch.ulivetv.net/v/live/cgwvsn6paxfk.m3u8?stream_id=cgwvsn6paxfk&timestamp=1685428071&rand=XPMavWjSsu&uuid=9b647b3816b2a66a&from=web&sign=85df2c0ba8b33a8c349a201420f00534
+#EXTINF:-1 ,福建海峡卫视
+https://dispatch.ulivetv.net/v/live/cgwvnm2cuny8.m3u8?stream_id=cgwvnm2cuny8&timestamp=1685428154&rand=WvakMZahgJ&uuid=9b647b3816b2a66a&from=web&sign=162c32e4252ecb7e79ad240ac31f3892
+#EXTINF:-1 ,大湾区卫视
+https://dispatch.ulivetv.net/v/live/cgwvrf1besw0.m3u8?stream_id=cgwvrf1besw0&timestamp=1685428257&rand=zxmZCbNGsr&uuid=9b647b3816b2a66a&from=web&sign=b1634d58d1ed0777531b2bc18e7db5e3
+#EXTINF:-1 ,甘肃卫视
+https://dispatch.ulivetv.net/v/live/cgwvnvzbcatc.m3u8?stream_id=cgwvnvzbcatc&timestamp=1685428364&rand=tvf94oNLxg&uuid=9b647b3816b2a66a&from=web&sign=20b9031966a5d247d03a79c5095dc444
+#EXTINF:-1 ,江西卫视
+https://dispatch.ulivetv.net/v/live/cgwvqdlj74cg.m3u8?stream_id=cgwvqdlj74cg&timestamp=1685428483&rand=FNSRao38wJ&uuid=9b647b3816b2a66a&from=web&sign=309807ff6f5d176b0c97feeaee3ac709
+#EXTINF:-1 ,厦门卫视
+https://dispatch.ulivetv.net/v/live/cgwvuwd6098g.m3u8?stream_id=cgwvuwd6098g&timestamp=1685428563&rand=R8KLCAP6cL&uuid=9b647b3816b2a66a&from=web&sign=f26420af8ddce86f0aaf689b48661029
+#EXTINF:-1 ,第一财经
+https://dispatch.ulivetv.net/v/live/cgxakkgv5bk0.m3u8?stream_id=cgxakkgv5bk0&timestamp=1685434684&rand=4QXi50qjou&uuid=9b647b3816b2a66a&from=web&sign=de2e2dab87e727044c15f2d938d7cd3a
+#EXTINF:-1 ,北京财经
+https://dispatch.ulivetv.net/v/live/cgxaky5ampj4.m3u8?stream_id=cgxaky5ampj4&timestamp=1685434733&rand=W2G8VGEr3Y&uuid=9b647b3816b2a66a&from=web&sign=034a4286407160daa04df0184d7e1fb6
+#EXTINF:-1 ,浙江国际
+https://hw-m-l.cztv.com/channels/lantian/channel10/360p.m3u8
+#EXTINF:-1 ,浙江经济生活
+https://hw-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
+#EXTINF:-1 ,浙江钱江
+https://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
+#EXTINF:-1 ,浙江科教
+https://hw-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
+#EXTINF:-1 ,平湖民生休闲
+https://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8
+#EXTINF:-1 ,上海都市
+https://dispatch.ulivetv.net/v/live/cgxal7azq8jk.m3u8?stream_id=cgxal7azq8jk&timestamp=1685434763&rand=4ChGMCEwTk&uuid=9b647b3816b2a66a&from=web&sign=6a7dd3a64694b99b288b518d433d9b6a
+#EXTINF:-1 ,上海新闻
+https://dispatch.ulivetv.net/v/live/cgxalg4ysx4w.m3u8?stream_id=cgxalg4ysx4w&timestamp=1685434795&rand=O3JqTkFOWn&uuid=9b647b3816b2a66a&from=web&sign=bc2d09a6f364d1bca19b4472ef060038
+#EXTINF:-1 ,广东珠江
+https://dispatch.ulivetv.net/v/live/cgxalp1zr4xs.m3u8?stream_id=cgxalp1zr4xs&timestamp=1685434822&rand=Fa3gyOoaOX&uuid=9b647b3816b2a66a&from=web&sign=209b7346c8bfbb56dd8ce9ba392b0c4a
+#EXTINF:-1 ,湖南经视
+https://dispatch.ulivetv.net/v/live/cgxalylfake8.m3u8?stream_id=cgxalylfake8&timestamp=1685434855&rand=VsTVyWWfcX&uuid=9b647b3816b2a66a&from=web&sign=68601fc8124a9cb655225d7fa12ad2c8
+#EXTINF:-1 ,金鹰卡通
+http://113.207.84.196/session/8ee06e6e-ffa1-11ed-bb11-5254003e6f6f$h1.0$tv.live.cbnbn.cn/673dxt/__cl/cg:live/__c/jinyingSD/__op/default/__f/index.m3u8?token=c94de2a6a250d12bd025b3c72ba59d8e_1685616872_1685616872
+#EXTINF:-1 ,北京休闲体育
+https://dispatch.ulivetv.net/v/live/cgxam6v2ozpc.m3u8?stream_id=cgxam6v2ozpc&timestamp=1685434906&rand=eb6PMBcoZK&uuid=9b647b3816b2a66a&from=web&sign=d43a141996c582afbccce59b5070d822
+#EXTINF:-1 ,五星体育
+https://dispatch.ulivetv.net/v/live/cgxamfznu56o.m3u8?stream_id=cgxamfznu56o&timestamp=1685434944&rand=NUJno2BF7c&uuid=9b647b3816b2a66a&from=web&sign=9492bda0dbaae14744c9ab9337b390c3
+#EXTINF:-1 ,天津体育
+https://dispatch.ulivetv.net/v/live/cgxamprz0kw0.m3u8?stream_id=cgxamprz0kw0&timestamp=1685434976&rand=ZaQH58D7hE&uuid=9b647b3816b2a66a&from=web&sign=aa4c5aa43b846d335fae4bd2244f4192
+#EXTINF:-1 ,辽宁体育
+https://dispatch.ulivetv.net/v/live/cgxamzvb8vk0.m3u8?stream_id=cgxamzvb8vk0&timestamp=1685435005&rand=dQUXe3uwoE&uuid=9b647b3816b2a66a&from=web&sign=e650b0b3bcc13246bc92927b1fae1eca
+#EXTINF:-1 ,广东体育
+https://dispatch.ulivetv.net/v/live/cgxanasc9q68.m3u8?stream_id=cgxanasc9q68&timestamp=1685435040&rand=pnGaLQJrBY&uuid=9b647b3816b2a66a&from=web&sign=a50af422e9851eedf09a43fc17fec322
+#EXTINF:-1 ,Z6电竞TV
+https://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
+#EXTINF:-1 ,威海新闻综合频道
+http://l1.weihai.tv:8081/hls/969O76hb20.m3u8
+#EXTINF:-1 ,威海都市生活频道
+http://l2.weihai.tv:8081/hls/g16E3482eM.m3u8
+#EXTINF:-1 ,威海海洋频道
+http://l2.weihai.tv:8081/hls/x8b19NoyEI.m3u8
+#EXTINF:-1 ,大爱2台
+https://dispatch.ulivetv.net/v/live/cl7c83atb64g.m3u8?stream_id=cl7c83atb64g&timestamp=1685431118&rand=0ENuzSseBU&uuid=9b647b3816b2a66a&from=web&sign=194b69723fb8db013f902ae5f06979db
+#EXTINF:-1 ,大爱1台
+https://dispatch.ulivetv.net/v/live/cl7c7r2jpg3k.m3u8?stream_id=cl7c7r2jpg3k&timestamp=1685431188&rand=qBj9QqmYNl&uuid=9b647b3816b2a66a&from=web&sign=32b822fe658a9c73953dd78ef36ba114
+#EXTINF:-1 ,中视HD
+https://dispatch.ulivetv.net/v/live/cfm2qel2kn9c.m3u8?stream_id=cfm2qel2kn9c&timestamp=1685431231&rand=VL9Vu29PC8&uuid=9b647b3816b2a66a&from=web&sign=6d774abbe5c3ff3f239fc2adc878a013
+#EXTINF:-1 ,公视
+https://dispatch.ulivetv.net/v/live/cg0hhu6qlpz4.m3u8?stream_id=cg0hhu6qlpz4&timestamp=1685431288&rand=7dYL9nKlcp&uuid=9b647b3816b2a66a&from=web&sign=c4ad44dd4e6398fc3b560098a22374ba
+#EXTINF:-1 ,民视第一台
+https://dispatch.ulivetv.net/v/live/cg0hro4vn54w.m3u8?stream_id=cg0hro4vn54w&timestamp=1685431351&rand=jTbfwGCf4g&uuid=9b647b3816b2a66a&from=web&sign=715055126a03151eaddc0297449675bc
+#EXTINF:-1 ,中天综合
+https://dispatch.ulivetv.net/v/live/cg0ifkvu1hhc.m3u8?stream_id=cg0ifkvu1hhc&timestamp=1685431387&rand=DnMM0wFMzG&uuid=9b647b3816b2a66a&from=web&sign=e1f4afdcd8c8cca5b779e21d2d3fb414
+#EXTINF:-1 ,中天亚洲
+https://dispatch.ulivetv.net/v/live/cg0im4r5dh34.m3u8?stream_id=cg0im4r5dh34&timestamp=1685431425&rand=LRHdcVTLAX&uuid=9b647b3816b2a66a&from=web&sign=1a86d28a9d41669b7ed210f01f135143
+#EXTINF:-1 ,东森超视HD
+https://dispatch.ulivetv.net/v/live/cg169idwckw0.m3u8?stream_id=cg169idwckw0&timestamp=1685431456&rand=5K15Brzu22&uuid=9b647b3816b2a66a&from=web&sign=665ec3b36a4fc7fe8b917ec3253008c8
+#EXTINF:-1 ,靖天国际
+https://dispatch.ulivetv.net/v/live/cg16n9l4ol34.m3u8?stream_id=cg16n9l4ol34&timestamp=1685431509&rand=pUkPcAUWqM&uuid=9b647b3816b2a66a&from=web&sign=75265659892b55a0dbe032e2f0b46f77
+#EXTINF:-1 ,TVBS ASIA
+https://dispatch.ulivetv.net/v/live/cg4krcc4nzr4.m3u8?stream_id=cg4krcc4nzr4&timestamp=1685431587&rand=fIy1CqnNio&uuid=9b647b3816b2a66a&from=web&sign=93c1241e3bcd6c7331aaaf4fae9d992a
+#EXTINF:-1 ,八大综合台
+https://dispatch.ulivetv.net/v/live/cl7ckgyfn9vk.m3u8?stream_id=cl7ckgyfn9vk&timestamp=1685431648&rand=vTQZ4NeAF3&uuid=9b647b3816b2a66a&from=web&sign=959fa4c61a644def4dbe91b5660ffa11
+#EXTINF:-1 ,客家电视台
+https://dispatch.ulivetv.net/v/live/clectmxixadc.m3u8?stream_id=clectmxixadc&timestamp=1685431689&rand=BsVOhRCpxB&uuid=9b647b3816b2a66a&from=web&sign=8ad0d1adb43114acb2b2d5b3160ef7b5
+#EXTINF:-1 ,东森综合
+https://dispatch.ulivetv.net/v/live/clecuafija9s.m3u8?stream_id=clecuafija9s&timestamp=1685431726&rand=a8kAQLLjpu&uuid=9b647b3816b2a66a&from=web&sign=e5a75b602d8d0ca8e2f0ad8a4fa03baa
+#EXTINF:-1 ,中视
+https://dispatch.ulivetv.net/v/live/cl7c5tec5wow.m3u8?stream_id=cl7c5tec5wow&timestamp=1685431757&rand=DStkOiwNyE&uuid=9b647b3816b2a66a&from=web&sign=e789ff8e38ee2409eab6eabb42862b76
+#EXTINF:-1 ,华视
+https://dispatch.ulivetv.net/v/live/cl7c69hc4m2o.m3u8?stream_id=cl7c69hc4m2o&timestamp=1685431796&rand=tYXmgHt2Am&uuid=9b647b3816b2a66a&from=web&sign=8ca6df94df5acdeb8573a7204e086732
+#EXTINF:-1 ,纬来日本台
+https://dispatch.ulivetv.net/v/live/cl7c7d6a1j28.m3u8?stream_id=cl7c7d6a1j28&timestamp=1685431837&rand=lSKrbqkh6W&uuid=9b647b3816b2a66a&from=web&sign=90fb6141f59a42d77d4ed6358b60404a
+#EXTINF:-1 ,纬来综合台
+https://dispatch.ulivetv.net/v/live/cl7clh349vpc.m3u8?stream_id=cl7clh349vpc&timestamp=1685431876&rand=1ko8ZRHpHv&uuid=9b647b3816b2a66a&from=web&sign=46bd80e35ab15dc09bdf00163a304aff
+#EXTINF:-1 ,八大第一台
+https://dispatch.ulivetv.net/v/live/clijwtkn9eio.m3u8?stream_id=clijwtkn9eio&timestamp=1685431914&rand=DXfie5UNyd&uuid=9b647b3816b2a66a&from=web&sign=9b9f7480f2a598609f20d98fe77c5358
+#EXTINF:-1 ,ELTA综合
+https://dispatch.ulivetv.net/v/live/cl7cqw6n9sqo.m3u8?stream_id=cl7cqw6n9sqo&timestamp=1685534742&rand=tTYkzql0Ie&uuid=9b647b3816b2a66a&from=web&sign=d20d27fad90e1a20452657693eb2406a
+#EXTINF:-1 ,TVB欢乐台
+https://dispatch.ulivetv.net/v/live/cg0hzu3sgc00.m3u8?stream_id=cg0hzu3sgc00&timestamp=1685432704&rand=teKzHfh5Ds&uuid=9b647b3816b2a66a&from=web&sign=2d308130341c797a13c6497bcc269aee
+#EXTINF:-1 ,中天娱乐台
+https://dispatch.ulivetv.net/v/live/cg0iacfwayf4.m3u8?stream_id=cg0iacfwayf4&timestamp=1685432789&rand=Envmkm8KvB&uuid=9b647b3816b2a66a&from=web&sign=1754e5ad1e6b14343ecd199acc08ba89
+#EXTINF:-1 ,八大精彩台
+https://dispatch.ulivetv.net/v/live/cg0j44tc0kow.m3u8?stream_id=cg0j44tc0kow&timestamp=1685432848&rand=itfSlrV9Kk&uuid=9b647b3816b2a66a&from=web&sign=28fd29b351c2fba0303d8441531fbf72
+#EXTINF:-1 ,东森戏剧
+https://dispatch.ulivetv.net/v/live/cl7caihk7zr4.m3u8?stream_id=cl7caihk7zr4&timestamp=1685433301&rand=TFPWunH2mv&uuid=9b647b3816b2a66a&from=web&sign=5b1563bdf2b190bb488076853d33da40
+#EXTINF:-1 ,卫视中文台
+https://dispatch.ulivetv.net/v/live/cl7ciyx4pznk.m3u8?stream_id=cl7ciyx4pznk&timestamp=1685433340&rand=JUcZaelbqp&uuid=9b647b3816b2a66a&from=web&sign=6615a7d82cc880797406accb1f2e2b37
+#EXTINF:-1 ,ELTA影剧
+https://dispatch.ulivetv.net/v/live/cl7cqioy0kao.m3u8?stream_id=cl7cqioy0kao&timestamp=1685434580&rand=rwmDmlZHXa&uuid=9b647b3816b2a66a&from=web&sign=bdcfb4dc8e9d61d05fa92e6a0557e529
+#EXTINF:-1 ,八大戏剧台
+https://dispatch.ulivetv.net/v/live/cl7ckupkipc0.m3u8?stream_id=cl7ckupkipc0&timestamp=1685433385&rand=fsFn9zdgPJ&uuid=9b647b3816b2a66a&from=web&sign=9cf34abaf4a6101da295013c0259e499
+#EXTINF:-1 ,纬来戏剧台
+https://dispatch.ulivetv.net/v/live/cl7cm1w9tl1c.m3u8?stream_id=cl7cm1w9tl1c&timestamp=1685433421&rand=e1p8IYTyO6&uuid=9b647b3816b2a66a&from=web&sign=d3d8ff7236f11168d288d07b9b057303
+#EXTINF:-1 ,EYE戏剧
+https://dispatch.ulivetv.net/v/live/cl7crqv0voao.m3u8?stream_id=cl7crqv0voao&timestamp=1685433474&rand=OB3FuPfEYQ&uuid=9b647b3816b2a66a&from=web&sign=6941ac1ae8b29505d61ad3c7eb79d797
+#EXTINF:-1 ,星卫娱乐台
+https://dispatch.ulivetv.net/v/live/cl7csf4rd2gw.m3u8?stream_id=cl7csf4rd2gw&timestamp=1685433513&rand=yo7L4bvxaO&uuid=9b647b3816b2a66a&from=web&sign=a9ff38b1ffabcce2318dd6925d9cfbd4
+#EXTINF:-1 ,国兴卫视
+https://dispatch.ulivetv.net/v/live/clect8xzw534.m3u8?stream_id=clect8xzw534&timestamp=1685433587&rand=HV1fa9yFhP&uuid=9b647b3816b2a66a&from=web&sign=642039e514c1861b93d4b8c1394f7009
+#EXTINF:-1 ,纬来体育台
+https://dispatch.ulivetv.net/v/live/cg1mbnhpe0u8.m3u8?stream_id=cg1mbnhpe0u8&timestamp=1685433699&rand=mgJY2mtjxd&uuid=9b647b3816b2a66a&from=web&sign=109f5a192c52768cf773f57992ab447e
+#EXTINF:-1 ,ELEVEN体育1
+https://dispatch.ulivetv.net/v/live/cg1mg0pkbi68.m3u8?stream_id=cg1mg0pkbi68&timestamp=1685433736&rand=3Krkukp8EY&uuid=9b647b3816b2a66a&from=web&sign=5f7f5b19002dfad99d56ca054f2995b0
+#EXTINF:-1 ,ELEVEN体育2
+https://dispatch.ulivetv.net/v/live/cg1mlp24a2tc.m3u8?stream_id=cg1mlp24a2tc&timestamp=1685433794&rand=Ziosk8vHqv&uuid=9b647b3816b2a66a&from=web&sign=d0c2a8a732dd595d43fe826bdbce2641
+#EXTINF:-1 ,博斯运动1
+https://dispatch.ulivetv.net/v/live/cg1mq9e7sl34.m3u8?stream_id=cg1mq9e7sl34&timestamp=1685433825&rand=vryXLDCOpL&uuid=9b647b3816b2a66a&from=web&sign=97026a7f50c9fe51b923d143832b80b6
+#EXTINF:-1 ,博斯运动2
+https://dispatch.ulivetv.net/v/live/cg1mvz20c14w.m3u8?stream_id=cg1mvz20c14w&timestamp=1685433872&rand=u6klSAFRyh&uuid=9b647b3816b2a66a&from=web&sign=ab223b2370dc719e83177aebf07c74bd
+#EXTINF:-1 ,博斯高球1
+https://dispatch.ulivetv.net/v/live/cg1n0b4bgbeo.m3u8?stream_id=cg1n0b4bgbeo&timestamp=1685433906&rand=YKP1Nc7jbo&uuid=9b647b3816b2a66a&from=web&sign=587b357b35e506b5662ff5137e6d4887
+#EXTINF:-1 ,博斯高球2
+https://dispatch.ulivetv.net/v/live/cg1n6ib9u4sg.m3u8?stream_id=cg1n6ib9u4sg&timestamp=1685433948&rand=imDr5QcDxm&uuid=9b647b3816b2a66a&from=web&sign=f71f7a165a2d16e634365beed9891680
+#EXTINF:-1 ,博斯网球
+https://dispatch.ulivetv.net/v/live/cg1nb00eplts.m3u8?stream_id=cg1nb00eplts&timestamp=1685433976&rand=7FMfiOJX0R&uuid=9b647b3816b2a66a&from=web&sign=31dd7ff4743cf51b7bf5d68ccedaf578
+#EXTINF:-1 ,博斯无限
+https://dispatch.ulivetv.net/v/live/clecumtydz28.m3u8?stream_id=clecumtydz28&timestamp=1685434070&rand=kH3iRou1NT&uuid=9b647b3816b2a66a&from=web&sign=818ce303248194624a9049409a9714df
+#EXTINF:-1 ,ELTA体育1
+https://dispatch.ulivetv.net/v/live/clecyhjewngg.m3u8?stream_id=clecyhjewngg&timestamp=1685434101&rand=Vwn75dkwBT&uuid=9b647b3816b2a66a&from=web&sign=12b4197ef7c15b863a1957c3d053ad97
+#EXTINF:-1 ,ELTA体育2
+https://dispatch.ulivetv.net/v/live/clecysls7oow.m3u8?stream_id=clecysls7oow&timestamp=1685434132&rand=pq8nJQQUFE&uuid=9b647b3816b2a66a&from=web&sign=7b265af23a0372ca3a7111b97edbcdff
+#EXTINF:-1 ,快乐垂钓
+http://113.207.84.196/session/03e7b65a-ffa1-11ed-87d1-525400dfb345$h1.0$tv.live.cbnbn.cn/673dxt/__cl/cg:live/__c/klcdHD/__op/default/__f/index.m3u8?token=b657bfdb413f355645d15c474704db76_1685616653_1685616653
+#EXTINF:-1 ,先锋乒羽
+http://113.207.84.199/session/5e2beaaa-ffa1-11ed-b748-5254006225bb$h1.0$tv.live.cbnbn.cn/673dxt/__cl/cg:live/__c/xianfeng/__op/default/__f/index.m3u8?token=ce3cbdaac87bdb93014cc9e2bc06a916_1685616804_1685616804
+#EXTINF:-1 ,TVBS新闻台
+https://dispatch.ulivetv.net/v/live/cfxyummruo5c.m3u8?stream_id=cfxyummruo5c&timestamp=1685432099&rand=YbOIf0gtH4&uuid=9b647b3816b2a66a&from=web&sign=eb1535fa194c52bc6399926fdd48092f
+#EXTINF:-1 ,寰宇新闻台
+https://dispatch.ulivetv.net/v/live/cfxws90rpmf4.m3u8?stream_id=cfxws90rpmf4&timestamp=1685432126&rand=abg6b7ihPE&uuid=9b647b3816b2a66a&from=web&sign=deae6a8d3565ea30616c2f51a7cce827
+#EXTINF:-1 ,华视新闻台
+https://dispatch.ulivetv.net/v/live/cfxxj2c5l6f4.m3u8?stream_id=cfxxj2c5l6f4&timestamp=1685432166&rand=ac46MZl3U3&uuid=9b647b3816b2a66a&from=web&sign=6764d6fd00651ca4d7e2ddf9ec254f47
+#EXTINF:-1 ,中天新闻台
+https://dispatch.ulivetv.net/v/live/cg1049vjg14w.m3u8?stream_id=cg1049vjg14w&timestamp=1685432201&rand=TMJfF4aCYP&uuid=9b647b3816b2a66a&from=web&sign=817126bd3f929f52bcf53e8a8f5283c1
+#EXTINF:-1 ,镜新闻
+https://dispatch.ulivetv.net/v/live/cfxxf3nxvem8.m3u8?stream_id=cfxxf3nxvem8&timestamp=1685432245&rand=k0wakIIAIt&uuid=9b647b3816b2a66a&from=web&sign=1f60d7cef1d83d135dbdb8c2a695f05d
+#EXTINF:-1 ,壹新闻HD
+https://dispatch.ulivetv.net/v/live/cfxwzsgnhnls.m3u8?stream_id=cfxwzsgnhnls&timestamp=1685432287&rand=h4KY5mDZ3b&uuid=9b647b3816b2a66a&from=web&sign=9b6ae1fd46ffe739f1dd3ca38b10eaf8
+#EXTINF:-1 ,中视新闻
+https://dispatch.ulivetv.net/v/live/clev54g636bk.m3u8?stream_id=clev54g636bk&timestamp=1685432359&rand=9qO52jwKOA&uuid=9b647b3816b2a66a&from=web&sign=8f4609000b4d5fd34ae1db4b5471a30a
+#EXTINF:-1 ,台视新闻
+https://dispatch.ulivetv.net/v/live/clevc7agnphc.m3u8?stream_id=clevc7agnphc&timestamp=1685432392&rand=IcnD3OVYeO&uuid=9b647b3816b2a66a&from=web&sign=0576858569abce403cfb081515a42a71
+#EXTINF:-1 ,TVBS HD
+https://dispatch.ulivetv.net/v/live/cl7c4wxioc00.m3u8?stream_id=cl7c4wxioc00&timestamp=1685432427&rand=MBf8wg6eo0&uuid=9b647b3816b2a66a&from=web&sign=ca3418b109de818b4e32acc8ee8a03ef
+#EXTINF:-1 ,东森财经新闻
+https://dispatch.ulivetv.net/v/live/cl7c5f64zg74.m3u8?stream_id=cl7c5f64zg74&timestamp=1685432499&rand=LKeehCSBbd&uuid=9b647b3816b2a66a&from=web&sign=7a7bbbc1290ad40a2b9680a0a9ae3c31
+#EXTINF:-1 ,非凡新闻
+https://dispatch.ulivetv.net/v/live/cl7cc13lsxc0.m3u8?stream_id=cl7cc13lsxc0&timestamp=1685432535&rand=yBw3FAExCF&uuid=9b647b3816b2a66a&from=web&sign=4e334d10d027a8fb8b72df6b05952f69
+#EXTINF:-1 ,东森新闻
+https://dispatch.ulivetv.net/v/live/clecuz9d78ow.m3u8?stream_id=clecuz9d78ow&timestamp=1685432576&rand=lWcxfHGjbb&uuid=9b647b3816b2a66a&from=web&sign=7f7e0d9bfbfecc9828426e2d36cc1a3b
+#EXTINF:-1 ,凤凰卫视资讯台
+https://dispatch.ulivetv.net/v/live/cfxskn7pjv0g.m3u8?stream_id=cfxskn7pjv0g&timestamp=1685428687&rand=Spb8sdgeXZ&uuid=9b647b3816b2a66a&from=web&sign=fb46525cebcdd6d5c2b4242fee7d2615
+#EXTINF:-1 ,J2
+https://dispatch.ulivetv.net/v/live/ccns1caueri8.m3u8?stream_id=ccns1caueri8&timestamp=1685428790&rand=thtcbQHjDh&uuid=9b647b3816b2a66a&from=web&sign=a9a8b3cc0ac7df5c2195251380dce660
+#EXTINF:-1 ,TVB明珠台
+https://dispatch.ulivetv.net/v/live/ccns2cw1d7ls.m3u8?stream_id=ccns2cw1d7ls&timestamp=1685428940&rand=9HluOeTEhC&uuid=9b647b3816b2a66a&from=web&sign=e4fdffd87e5f5c95e46226452d37d73b
+#EXTINF:-1 ,ViuTV
+https://dispatch.ulivetv.net/v/live/ccnuwp0ol8zk.m3u8?stream_id=ccnuwp0ol8zk&timestamp=1685429026&rand=PCEwSC8hAc&uuid=9b647b3816b2a66a&from=web&sign=117168c915c7e839d3446fc8e96a2f6e
+#EXTINF:-1 ,ViuTV6
+https://dispatch.ulivetv.net/v/live/ccnuxr010b0g.m3u8?stream_id=ccnuxr010b0g&timestamp=1685534512&rand=ZVerL4jasu&uuid=9b647b3816b2a66a&from=web&sign=79675f0c8f1f32cf53d7d67c1d33ff78
+#EXTINF:-1 ,TVB翡翠台
+https://dispatch.ulivetv.net/v/live/ccns0yuvkzpc.m3u8?stream_id=ccns0yuvkzpc&timestamp=1685429067&rand=eidPajKsiL&uuid=9b647b3816b2a66a&from=web&sign=3785d0ed4ad0a71d08f343a1c00c82bb
+#EXTINF:-1 ,凤凰卫视中文台
+https://dispatch.ulivetv.net/v/live/cfxsdwcdynk0.m3u8?stream_id=cfxsdwcdynk0&timestamp=1685429111&rand=3FNurEKOIl&uuid=9b647b3816b2a66a&from=web&sign=3882ee0ff7fe4a20050d1a7cfb4c634c
+#EXTINF:-1 ,澳门莲花台
+https://dispatch.ulivetv.net/v/live/cl7c8hsq3f0g.m3u8?stream_id=cl7c8hsq3f0g&timestamp=1685534616&rand=MYiQB2A8Vr&uuid=9b647b3816b2a66a&from=web&sign=a77df4607f44669030900e991df30416
+#EXTINF:-1 ,香港有线新闻台
+https://dispatch.ulivetv.net/v/live/cfxpyfk7tolc.m3u8?stream_id=cfxpyfk7tolc&timestamp=1685429319&rand=3LIj7A9E2e&uuid=9b647b3816b2a66a&from=web&sign=3eba78e297aa45ac4a68a441fb4acc06
+#EXTINF:-1 ,有线财经资讯台
+https://dispatch.ulivetv.net/v/live/cfxrefe7mfuo.m3u8?stream_id=cfxrefe7mfuo&timestamp=1685429368&rand=V3VWCQfOV7&uuid=9b647b3816b2a66a&from=web&sign=9d3c26aed2bde48cc1c32e6518ddf6fd
+#EXTINF:-1 ,无线新闻台
+https://dispatch.ulivetv.net/v/live/ccns1uzk2bwg.m3u8?stream_id=ccns1uzk2bwg&timestamp=1685429419&rand=H4oH2x6Xtk&uuid=9b647b3816b2a66a&from=web&sign=153d27a29e8d04b7ae03ce38f742d49a
+#EXTINF:-1 ,MYTV SUPER
+https://dispatch.ulivetv.net/v/live/cfxtubeazlc0.m3u8?stream_id=cfxtubeazlc0&timestamp=1685430486&rand=sfjUYcCoob&uuid=9b647b3816b2a66a&from=web&sign=bcbfbea9cf1793bd43975571f2a2c710
+#EXTINF:-1 ,CCM
+https://dispatch.ulivetv.net/v/live/cg48ogf0pj28.m3u8?stream_id=cg48ogf0pj28&timestamp=1685429628&rand=fsHZHYqKSc&uuid=9b647b3816b2a66a&from=web&sign=cad7ca5ecf40a908a3fde28d316fcdb5
+#EXTINF:-1 ,NOW华剧台
+https://dispatch.ulivetv.net/v/live/ciw8gb4fs8g0.m3u8?stream_id=ciw8gb4fs8g0&timestamp=1685429728&rand=bLVunWz4Y9&uuid=9b647b3816b2a66a&from=web&sign=ae21cea78ce186df23050721e09ebbdc
+#EXTINF:-1 ,CHC动作电影
+http://113.207.84.200/session/000de70a-ffa3-11ed-bb99-5254004d191c$h1.0$tv.live.cbnbn.cn/673dxt/__cl/cg:live/__c/chcdzdyHD/__op/default/__f/index.m3u8?token=f3633e0ca8420a2a48f94e6ac733cf6a_1685613030_1685613030
+#EXTINF:-1 ,CHC高清电影
+http://113.207.84.197/session/33c0e796-ffa3-11ed-90e0-5254003e6f6f$h1.0$tv.live.cbnbn.cn/673dxt/__cl/cg:live/__c/chcgqdyHD/__op/default/__f/index.m3u8?token=638d60a80f880c65d30c9620176a1c25_1685616080_1685616080
+#EXTINF:-1 ,CHC家庭影院
+http://113.207.84.197/session/4a681140-ffa3-11ed-b748-5254006225bb$h1.0$tv.live.cbnbn.cn/673dxt/__cl/cg:live/__c/chcjtyyHD/__op/default/__f/index.m3u8?token=78f32b645f3cc289d14b14cc27164f66_1685613598_1685613598
+#EXTINF:-1 ,有线电影台
+https://dispatch.ulivetv.net/v/live/cl7bvftacyps.m3u8?stream_id=cl7bvftacyps&timestamp=1685429788&rand=Zb0jOEXt3A&uuid=9b647b3816b2a66a&from=web&sign=bb3ebf84c82cb2ecee985af59ab23117
+#EXTINF:-1 ,TVB星河台
+https://dispatch.ulivetv.net/v/live/cl7c95iovqo0.m3u8?stream_id=cl7c95iovqo0&timestamp=1685429831&rand=JyPM8bxQrX&uuid=9b647b3816b2a66a&from=web&sign=d0c7f1bfe0a951174b2031950c4d3176
+#EXTINF:-1 ,美亚电影台
+https://dispatch.ulivetv.net/v/live/cl7cpvwwclog.m3u8?stream_id=cl7cpvwwclog&timestamp=1685430019&rand=S8AG6E90dw&uuid=9b647b3816b2a66a&from=web&sign=92927c30421fdb792155b9227a286d3b
+#EXTINF:-1 ,卫视电影台
+https://dispatch.ulivetv.net/v/live/cl7cjf5jgs00.m3u8?stream_id=cl7cjf5jgs00&timestamp=1685434259&rand=8kwpWpeT56&uuid=9b647b3816b2a66a&from=web&sign=e051919ad35600664585552cfe200674
+#EXTINF:-1 ,好莱坞电影台
+https://dispatch.ulivetv.net/v/live/cl7ck1qkwzpc.m3u8?stream_id=cl7ck1qkwzpc&timestamp=1685434317&rand=gZVuQu6a25&uuid=9b647b3816b2a66a&from=web&sign=72eeee2170856a6f0ce7b18accc7d643
+#EXTINF:-1 ,纬来电影台
+https://dispatch.ulivetv.net/v/live/cl7cmdp021mo.m3u8?stream_id=cl7cmdp021mo&timestamp=1685434397&rand=3uggQeSikY&uuid=9b647b3816b2a66a&from=web&sign=a853ac10744009bd53cb56bcdb4fc3d8
+#EXTINF:-1 ,龙华洋片
+https://dispatch.ulivetv.net/v/live/cl7cn6bknxds.m3u8?stream_id=cl7cn6bknxds&timestamp=1685434433&rand=PNqEhd7933&uuid=9b647b3816b2a66a&from=web&sign=212c632bdd48ea52e28d14820ca40f98
+#EXTINF:-1 ,靖天电影台
+https://dispatch.ulivetv.net/v/live/cl7cnhrqwreo.m3u8?stream_id=cl7cnhrqwreo&timestamp=1685434466&rand=4zORcq7ozB&uuid=9b647b3816b2a66a&from=web&sign=e6f89a3401fcb2ee31d6a1d639958866
+#EXTINF:-1 ,星空HD电影台
+https://dispatch.ulivetv.net/v/live/cl7cs387s6v4.m3u8?stream_id=cl7cs387s6v4&timestamp=1685434531&rand=MUSVwFXsnG&uuid=9b647b3816b2a66a&from=web&sign=71285ed92ba2e4139e3b47d8b4fd2a3c
+#EXTINF:-1 ,8TV
+https://dispatch.ulivetv.net/v/live/cg4c5thnvf0g.m3u8?stream_id=cg4c5thnvf0g&timestamp=1685435165&rand=ZeCKynRzs0&uuid=9b647b3816b2a66a&from=web&sign=341c35f1c1466e202a9360e4315461c4
+#EXTINF:-1 ,Astro AEC
+https://dispatch.ulivetv.net/v/live/cg4cpixuofy8.m3u8?stream_id=cg4cpixuofy8&timestamp=1685435280&rand=o4ps3UT6QT&uuid=9b647b3816b2a66a&from=web&sign=8d2b0ffadb4c957a6385dead9457fde4
+#EXTINF:-1 ,Astro双星台
+https://dispatch.ulivetv.net/v/live/cg4csztqx8sg.m3u8?stream_id=cg4csztqx8sg&timestamp=1685435335&rand=LQCdTVdwxM&uuid=9b647b3816b2a66a&from=web&sign=de86ae474164e0f03c00b0fb02b577d0
+#EXTINF:-1 ,Astro AOD HD
+https://dispatch.ulivetv.net/v/live/cg4kl3517qv4.m3u8?stream_id=cg4kl3517qv4&timestamp=1685435381&rand=5TFmHNerGV&uuid=9b647b3816b2a66a&from=web&sign=f200a430f403b6dc1af101f3083afadc
+#EXTINF:-1 ,Astro欢喜台
+https://dispatch.ulivetv.net/v/live/cg4leoie68xs.m3u8?stream_id=cg4leoie68xs&timestamp=1685435439&rand=cb3MesoGDH&uuid=9b647b3816b2a66a&from=web&sign=781a2cab24048f770d1513321bed476d
+#EXTINF:-1 ,Astro爱奇艺
+https://dispatch.ulivetv.net/v/live/cgbws364354w.m3u8?stream_id=cgbws364354w&timestamp=1685435536&rand=m4AwmtzHJ9&uuid=9b647b3816b2a66a&from=web&sign=1ecf524934c39c6914f356ed93a3af92
+#EXTINF:-1 ,Channel U
+https://dispatch.ulivetv.net/v/live/ciw8h6xy7wzk.m3u8?stream_id=ciw8h6xy7wzk&timestamp=1685435592&rand=hu7Wd4GcYA&uuid=9b647b3816b2a66a&from=web&sign=dc80d733d0482d4aa92b40fe23bed5a0
+#EXTINF:-1 ,Astro华丽台
+https://dispatch.ulivetv.net/v/live/ciw8fimzyu9s.m3u8?stream_id=ciw8fimzyu9s&timestamp=1685435667&rand=kNI4WPC6Pl&uuid=9b647b3816b2a66a&from=web&sign=5c64a43bdcb763fb178dd48ff7801d73
+#EXTINF:-1 ,国家地理 野生频道
+https://dispatch.ulivetv.net/v/live/cg1kmp2fnw00.m3u8?stream_id=cg1kmp2fnw00&timestamp=1685435758&rand=87QrmczfdZ&uuid=9b647b3816b2a66a&from=web&sign=25ab966427f851229076b039be2ef2d8
+#EXTINF:-1 ,动物星球频道
+https://dispatch.ulivetv.net/v/live/cg1l4589x9s0.m3u8?stream_id=cg1l4589x9s0&timestamp=1685435820&rand=koAfVpNZpZ&uuid=9b647b3816b2a66a&from=web&sign=2b733d31f69737c2cb34ace624ef4e5a
+#EXTINF:-1 ,History探索
+https://dispatch.ulivetv.net/v/live/cl7ch406n6ww.m3u8?stream_id=cl7ch406n6ww&timestamp=1685435893&rand=t3Jbnnq1ZS&uuid=9b647b3816b2a66a&from=web&sign=7bd8c2e1533a6bc630189b91c8927a40
+#EXTINF:-1 ,TLC旅游生活频道
+https://dispatch.ulivetv.net/v/live/cl7chv63w4ao.m3u8?stream_id=cl7chv63w4ao&timestamp=1685435962&rand=kqM5CmnFxv&uuid=9b647b3816b2a66a&from=web&sign=8bc7db59a636560f6f80940a4060ae0f
+#EXTINF:-1 ,CI罪案侦查频道
+https://dispatch.ulivetv.net/v/live/cl7chv63w4ao.m3u8?stream_id=cl7chv63w4ao&timestamp=1685435962&rand=kqM5CmnFxv&uuid=9b647b3816b2a66a&from=web&sign=8bc7db59a636560f6f80940a4060ae0f
+#EXTINF:-1 ,亚洲旅游台
+https://dispatch.ulivetv.net/v/live/cl7cikas48n4.m3u8?stream_id=cl7cikas48n4&timestamp=1685436058&rand=iRzi7BXzML&uuid=9b647b3816b2a66a&from=web&sign=17d8f663e46a9ee89f678c9d2b976644
+#EXTINF:-1 ,美食星球频道
+https://dispatch.ulivetv.net/v/live/cl7cq7br5d4w.m3u8?stream_id=cl7cq7br5d4w&timestamp=1685436096&rand=8tBb9J7wQU&uuid=9b647b3816b2a66a&from=web&sign=d8c949d7548a7decb34f5c68370c15ea
+#EXTINF:-1 ,EYE旅游台
+https://dispatch.ulivetv.net/v/live/cl7crdhyxn0g.m3u8?stream_id=cl7crdhyxn0g&timestamp=1685436135&rand=hC4giHiGt1&uuid=9b647b3816b2a66a&from=web&sign=b2dbd927ee6f4ebff53347956d3b07bf
+#EXTINF:-1 ,0テル24ニュース
+https://ntv1.media.ylive.jp/rb9a49e2668764da883078c8a16cab897/ap-northeast-1/5690807595001/playlist.m3u8
+#EXTINF:-1 ,TBS NEWS
+https://tbs1.media.ylive.jp/r01e00f5e8c834dcf8600e342d43f3ac4/ap-northeast-1/5690807595001/playlist_dvr.m3u8
+#EXTINF:-1 ,NHK WORLD
+https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/zh/playlist.m3u8
+#EXTINF:-1 ,ANIMAX
+https://dispatch.ulivetv.net/v/live/cl7cf8045n7k.m3u8?stream_id=cl7cf8045n7k&timestamp=1685535850&rand=l0Fro7E5xj&uuid=9b647b3816b2a66a&from=web&sign=4300bedc25742266b2edc74d6ae7d039
+#EXTINF:-1 ,日本SHOP
+https://stream3.shopch.jp/HLS/master.m3u8
